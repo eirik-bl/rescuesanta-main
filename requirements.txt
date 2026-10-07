@@ -1,0 +1,6 @@
+pygame
+sys
+os
+time
+random
+pygame_menu==3.5.0
